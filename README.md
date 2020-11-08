@@ -1,4 +1,7 @@
-# platzi-exchange
+# Platzi Exchange
+> This application comes from the [Platzi](https://platzi.com/clases/vuejs/)'s [basic Vue.js course](https://platzi.com/clases/vuejs/).
+
+[Live Preview](https://josenoriegaa.github.io/platzi-exchange/#/): https://josenoriegaa.github.io/platzi-exchange/#/
 
 ## Project setup
 ```
